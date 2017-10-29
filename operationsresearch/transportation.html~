@@ -21,7 +21,10 @@
         </header>
     </div>
 
-
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
 <br>
 <span style="text-decoration:underline;"><strong>Operations Research</strong></span>
 
@@ -43,15 +46,19 @@
 
 <tr>
 <td class="tg-76so">
-<h3>Important Taylor Series Expansions</h3>
-
-Important Taylor Series Expansions - <a href="https://youtu.be/8aRKMLYkuzE" target="_blank">HERE</a>
-
+<span style="text-decoration:underline;"><strong>Initial Allocation Methods</strong></span>
+<ul>
+	<li>North West Corner Initial Allocation Method</li>
+	<li>Least Cost Initial Allocation Method</li>
+</ul>
 
 </td>
 <td class="tg-76so">
-<span style="text-decoration:underline;"><strong>Taylor Series</strong></span>
+<span style="text-decoration:underline;"><strong>Initial Allocation Methods</strong></span>
+<ul>
 
+	<li>Vogel's AllocationMethod - <a href="https://www.youtube.com/watch?v=HVHPBAKTZWw" target="_blank">Video</a></li>
+</ul>
 
 </td>
 
