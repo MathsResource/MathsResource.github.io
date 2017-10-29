@@ -97,20 +97,6 @@ Set theory is the branch of mathematical logic that studies sets, which are coll
 <col style="width: 295px">
 </colgroup>
 
-
-
-  <tr>
-    <td class="tg-76so">
-    <iframe width="265" src="//www.youtube.com/embed/z6HIzaQ_gGc" frameborder="0" allowfullscreen></iframe>
-    <strong><a href="dplyr/index.html">Equal and Equivalent Sets</a></strong><br></td>
-    <td class="tg-76so">
-    <iframe width="265" src="//www.youtube.com/embed/QSMbwr0dgxM" frameborder="0" allowfullscreen></iframe>
-    <strong>Membership Tables</strong><br><br></td>
-   <td class="tg-76so">
-    <iframe width="265" src="//www.youtube.com/embed/pT7UFwVeFRg" frameborder="0" allowfullscreen></iframe>
-    <strong>Cardinality of Sets</strong></td>
-  </tr>
-
   <tr>
     <td class="tg-76so">
     <iframe width="265" src="//www.youtube.com/embed/mqs5C5RADF8" frameborder="0" allowfullscreen></iframe>
@@ -122,8 +108,19 @@ Set theory is the branch of mathematical logic that studies sets, which are coll
     <iframe width="265" src="//www.youtube.com/embed/s1f3nCOOzz8" frameborder="0" allowfullscreen></iframe>
     <strong>Logic Networks</strong><br>How to create a simple Pie Chart for categorical data with Minitab</td>
   </tr>
-</table>
 
+  <tr>
+    <td class="tg-76so">
+    <iframe width="265" src="//www.youtube.com/embed/sNi_-8ODgAI" frameborder="0" allowfullscreen></iframe>
+    <strong><a href="dplyr/index.html">Regression with Minitab</a></strong><br>How to fit a Multiple Linear Regression model with Minitab<br>1. The Seven Verbs<br></td>
+    <td class="tg-76so">
+    <iframe width="265" src="//www.youtube.com/embed/mLl4AYKhAww" frameborder="0" allowfullscreen></iframe>
+    <strong>Stepwise Regression</strong><br><br>How to carry out Stepwise regression with Minitab<br></td>
+   <td class="tg-76so">
+    <iframe width="265" src="//www.youtube.com/embed/AcMm82Faj18" frameborder="0" allowfullscreen></iframe>
+    <strong>One Way ANOVA</strong><br>How to fit a One Way ANOVA model for grouped data with Minitab.</td>
+  </tr>
+</table>
 
 
 

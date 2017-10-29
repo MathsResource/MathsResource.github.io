@@ -45,7 +45,13 @@
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg .tg-yw4l{vertical-align:top}
 </style>
+<font size =6>
 
+<h2><strong>Section 3 : Logic</strong></h2>
+<ul>
+	<li>Notation for <em><strong>True</strong></em> : T, TRUE or 1</li>
+	<li>Notation for <em><strong>F</strong><strong><em>als</em>e</strong></em> : F, FALSE or 0</li>
+</ul>
 
 <!--------------------------------------------------------------------->
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
