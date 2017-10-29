@@ -26,7 +26,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
-
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Probability</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +36,7 @@
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-76so{font-size:15px;background-color:#cbcefb;vertical-align:top}
 </style>
-
+<center>
 <br>
 <a href="http://MathsResource.github.io"> Main Menu </a> | <a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> | <a href="http://MathsResource.github.io/Calculus"> Calculus Menu </a> | <a href="http://MathsResource.github.io/probability"> Probability Menu </a>
 <h5>Discrete Maths: Group Theory</h5>
@@ -47,9 +47,6 @@
 	<li>Groups recur throughout mathematics, and the methods of group theory have influenced many parts of algebra.</li>
 	<li>Linear algebraic groups and Lie groups are two branches of group theory that have experienced advances and have become subject areas in their own right.</li>
 </ul>
-<center>
-<!--------------------------------------------------------------------->
-
 	<br>
 	<!------------------------------------------------------------------------------------------------------------>
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
@@ -62,7 +59,10 @@
  <tr>
     <td class="tg-76so"><strong>Basics of Probability</strong><br> <ul>
 	<li>Computing the Determinant of a 3 x 3 matrix</li>
-	</ul></td>
+	<li>Eigenvalues and Eigen vectors</li>
+	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=YjLmzP4RJhU">Eigenvalues (Part 1 of worked example)</a></li>
+	<li>Linear Algebra  - Worked Examples Part 2 - <a href="https://www.youtube.com/watch?v=LTem1EcO04Y" target="_blank">Here</a></li>
+</ul></td>
      <td class="tg-76so"><strong>Contigency Tables</strong> <br>Laplace Transforms, Fourier Series </td>
   </tr>
 	
@@ -71,7 +71,8 @@
     <td class="tg-76so"><b><a href="randomvariables.html">Random Variables</a></b><br>
 <ul>
 	<li>Diagonalization of a Matrix</li>
-	
+	<li>Cholesky Decomposition</li>
+	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=aCUnEcHkZ3Y">LU decomposition of a matrix</a></li>
 	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=EPRQ61IKvuI">Solving Linear Equations with LU decomposition</a></li>
 	<li></li>
 </ul>
