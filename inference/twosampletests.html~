@@ -41,9 +41,6 @@
 <!---------------------------------------------------------------------------->
 <a href="http://MathsResource.github.io"> Main Menu </a> | 
 <a href="http://MathsResource.github.io/General"> General Maths Menu </a> | 
-<a href="http://MathsResource.github.io/Finance"> Financial Maths Menu </a> | 
-<a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> | 
-<a href="http://MathsResource.github.io/Calculus"> Calculus Menu </a> | 
 <a href="http://MathsResource.github.io/DiscreteMaths"> Discrete Maths Menu </a> | 
 <a href="http://MathsResource.github.io/probability"> Probability Menu </a>
 <!---------------------------------------------------------------------------->
@@ -80,15 +77,10 @@
 
 
 
+<a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=7sQXGU7EHss">Hypothesis Testing for a population mean (Small Sample)</a>
 
-<strong>Chi Square Test for Independence </strong>
-<ul>
-	<li>Chi Square Test – Computing the Test Statistic – <a href="https://youtu.be/O5ds4O8K8rQ">HERE</a></li>
-	<li>Chi Square Test – Determining the Critical Value – <a href="https://youtu.be/6B4uZY1Onzc" target="_blank">HERE</a></li>
-	<li>Chi Square Test for Independence – Example 1 part 1 <a href="https://youtu.be/7ZKSeyjKWvw" target="_blank">HERE</a></li>
-	<li>Chi Square Test for Independence – Example 1 part 2 <a href="https://youtu.be/wV88ylsaxjw" target="_blank">HERE</a></li>
-</ul>
 
+<a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=8lFaOQYj0bk">Hypothesis Testing - The t-test (MA4104 2011 Q2a)</a> 
 
 
 <div id="footer">
