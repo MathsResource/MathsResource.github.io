@@ -17,7 +17,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           
-          <h1 id="project_title">MathsResource.github.io</h1>
+          <h1 id="project_title">MathsResource.com</h1>
         </header>
     </div>
 
@@ -25,7 +25,8 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Experimental Design
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Applied Mathematics (Leaving Certificate)</h3>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
@@ -36,9 +37,9 @@
 </style>
 <h1>Designed Experiment</h1>
 An experiment conducted under controlled conditions, using factor-levels intended to estimate specified factors and their interactions. A designed experiment may be contrasted with the analysis of happenstance, historical or casual data.
-<p>
+
 A designed experiment presumes that the process being studied or the simulation being performed is stable and that the important factors in the process have been recognized. While an experiment may be performed on an unstable process, the results may not be directly useful because of large experimental error. All the important factors must be included; otherwise, the factors cannot completely describe the process.
-<p>
+
 &nbsp;
 
 <strong>Part 1 Design and analysis of experiments</strong>
