@@ -25,7 +25,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h4>
+        <h3>
 
 
 <style type="text/css">
@@ -36,10 +36,12 @@
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-76so{font-size:15px;background-color:#cbcefb;vertical-align:top}
 </style>
+<center>
+<br>
+<a href="http://MathsResource.github.io"> Main Menu </a> | <a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> | <a href="http://MathsResource.github.io/Calculus"> Calculus Menu </a> | <a href="http://MathsResource.github.io/probability"> Probability Menu </a>
+<h5>Discrete Maths</h5>
 
-
-<a href="http://MathsResource.github.io"> Main Menu </a> | <a href="http://MathsResource.github.io/discretemaths"> Discrete Mathematics </a> | <a href="http://MathsResource.github.io/discretemaths/index.html"> grouptheory </a>
-<h5>Discrete Maths: Group Theory</h5>
+Set theory is the branch of mathematical logic that studies sets, which are collections of objects.
 
 <ul>
 	<li>Group theory studies the algebraic structures known as <strong>groups</strong>.</li>
@@ -47,43 +49,55 @@
 	<li>Groups recur throughout mathematics, and the methods of group theory have influenced many parts of algebra.</li>
 	<li>Linear algebraic groups and Lie groups are two branches of group theory that have experienced advances and have become subject areas in their own right.</li>
 </ul>
-<center>
-<!--------------------------------------------------------------------->
+Fixed-Income Security
 
-	<br>
-	<!------------------------------------------------------------------------------------------------------------>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
-<colgroup>
-<col style="width: 375px">
-<col style="width: 375px">
-</colgroup>
-	
-	<!------------------------------------------------------------------------------------------------------------>
- <tr>
-    <td class="tg-76so"><strong>Basics of Probability</strong><br> <ul>
-	<li>Computing the Determinant of a 3 x 3 matrix</li>
-	</ul></td>
-     <td class="tg-76so"><strong>Contigency Tables</strong> <br>Laplace Transforms, Fourier Series </td>
-  </tr>
-	
-	<!------------------------------------------------------------------------------------------------------------>
-  <tr>
-    <td class="tg-76so"><b><a href="randomvariables.html">Random Variables</a></b><br>
+An investment that provides a return in the form of fixed periodic payments and the eventual return of principal at maturity.
+
+Unlike a variable-income security, where payments change based on some underlying measure such as short-term interest rates, the payments of a fixed-income security are known in advance.
+
+An example of a fixed-income security would be a 5% fixed-rate government bond
+where a $1,000 investment would result in an annual $50 payment until maturity
+when the investor would receive the $1,000 back.
+
+Generally, these types of assets offer a lower return on investment because they guarantee income.
+<table><colgroup><col width="624" /></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><strong> Fixed Income and Default Models:</strong></p>
+
 <ul>
-	<li>Diagonalization of a Matrix</li>
-	
-	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=EPRQ61IKvuI">Solving Linear Equations with LU decomposition</a></li>
-	<li></li>
+	<li>
+<p dir="ltr">definitions of yield;</p>
+</li>
+	<li>
+<p dir="ltr">naïve models of duration;</p>
+</li>
+	<li>
+<p dir="ltr">arbitrage and equilibrium models of the term structure of interest rates;</p>
+</li>
+	<li>
+<p dir="ltr">Ho-Lee, Black-Derman-Toy, and Heath-Jarrow-Morton models;</p>
+</li>
+	<li>
+<p dir="ltr">short rate and multifactor term structure models applied to interest-rate derivatives;</p>
+</li>
+	<li>
+<p dir="ltr">affine and quadratic term structure models;</p>
+</li>
+	<li>
+<p dir="ltr">structural and reduced form models of default;</p>
+</li>
+	<li>
+<p dir="ltr">models of default correlations.</p>
+</li>
 </ul>
 </td>
-    <td class="tg-76so"><a href="jointdistributions.html"><strong>Joint Distributions</a></strong></td>
-  </tr>
- 
-
-
+</tr>
+</tbody>
 </table>
+</div>
 
-	<!------------------------------------------------------------------------------------------------------------>
 <br>
 <br>
 
@@ -102,3 +116,8 @@
 
   </body>
 </html>
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status

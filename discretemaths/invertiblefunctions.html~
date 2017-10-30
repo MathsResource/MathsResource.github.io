@@ -54,24 +54,22 @@
 	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=YjLmzP4RJhU">Eigenvalues (Part 1 of worked example)</a></li>
 	<li>Linear Algebra  - Worked Examples Part 2 - <a href="https://www.youtube.com/watch?v=LTem1EcO04Y" target="_blank">Here</a></li>
 </ul></td>
-     <td class="tg-76so"><strong>Exponential Function</strong> <br>Laplace Transforms, Fourier Series </td>
+     <td class="tg-76so"><strong>Exponential Function</strong> </td>
   </tr>
 <!----------------------------------------->
   <tr>
-    <td class="tg-76so"><b><a href="randomvariables.html">Random Variables</a></b><br>
-<ul>
+    <td class="tg-76so"><b><a href="randomvariables.html">Arrow Diagrams</a></b><br>
 
-	<li><a class="vm-video-title-content yt-uix-sessionlink" href="https://www.youtube.com/watch?v=EPRQ61IKvuI">Solving Linear Equations with LU decomposition</a></li>
-	<li></li>
-</ul>
 <!----------------------------------------->
 </td>
-    <td class="tg-76so"><a href="jointdistributions.html"><strong>Floor and Ceiling Functions</a></strong></td>
+    <td class="tg-76so"><a href="jointdistributions.html"><strong>Bijective Functions</a></strong></td>
   </tr>
 
 <!----------------------------------------->
   <tr>
-    <td class="tg-76so"><b><a href="samplingdistributions.html">Sampling Distributions</a></b></td>
+    <td class="tg-76so"><b><a href="samplingdistributions.html">Surjective Functiond</a></b></td>
+
+<!------------------------------------------>
 
     <td class="tg-76so"><a href="graphtheory.html"><strong>Introduction to Graph Theory</a></strong></td>
   </tr>

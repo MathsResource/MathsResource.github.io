@@ -56,8 +56,7 @@
 <br>
 <br>
 <h4>Complex Numbers</h4>
-Autocorrelation is a measure of the internal correlation within a time series. It is a way of measuring and explaining internal association between observations in a time series. For example, for the measles time series you might ask: “take an arbitrary spot in time, on the average what does the time series look like in four weeks time, compared to now? ” In other words, you are asking a question about how strong is the internal association within the series at a period of four weeks? That association could be very strong and positive (i.e. the series in four weeks is similar to now), or be very strong and negative (i.e. the series in four weeks is very dissimilar to now) or there could be a weak or no relationship (i.e. there is no identifiable association). Also, you might also be interested in time periods other than four weeks. For example, you might be interested in periods of one week (and for measles you might expect that over one week the series does not change very much, so the association would be strong over periods of one week) or periods of a 52 weeks, a year (and again, you might assume that the association might be strong since measles epidemics have an annual component).
-<p>
+Autocorrelation is a measure of the internal correlation within a time series. <p>
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
 

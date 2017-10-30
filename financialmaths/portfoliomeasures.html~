@@ -31,7 +31,6 @@
 
 <!------------------------------------------------------------------------------------------------>
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
@@ -40,45 +39,10 @@
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-76so{font-size:15px;background-color:#cbcefb;vertical-align:top}
 </style>
-
-<!------------------------------------------------------->  
-<br>
-<br>
-<br>
-<div class="entry-content">
-<ul>
-	<li>
-<p dir="ltr">Coverage of a wide range of derivative securities, from plain-vanilla to cutting edge exotic varieties, including both exchange-traded and over-the-counter instruments;</p>
-</li>
-	<li>
-<p dir="ltr">equity, foreign exchange, interest rate, and credit derivatives;</p>
-</li>
-	<li>
-<p dir="ltr">path-dependent derivatives;</p>
-</li>
-	<li>
-<p dir="ltr">no-arbitrage pricing methodology and risk-neutral probabilities;</p>
-</li>
-	<li>
-<p dir="ltr">stochastic volatility;</p>
-</li>
-	<li>
-<p dir="ltr">hedging parameters;</p>
-</li>
-	<li>
-<p dir="ltr">implied volatility surfaces;</p>
-</li>
-	<li>
-<p dir="ltr">corporate securities as contingent claims;</p>
-</li>
-	<li>
-<p dir="ltr">real options.</p>
-</li>
-</ul>
-</div>
-
 <center>
+
 <br><br>
+ 
 <!------------------------------------------------------->  
 <table class="tg" style="undefined;table-layout: fixed; width: 840px">
 <colgroup>
@@ -86,16 +50,17 @@
 <col style="width: 280px">
 <col style="width: 280px">
 </colgroup>
-
+<!-------------------------------------------------------> 
   <tr>
     <td class="tg-76so"><strong>Expected Return of a Portfolio</strong><br> Fundamentals of Financial Maths</td>
     <td class="tg-76so"><strong><a href="securities.html">Portfolio Risk</a> </strong><br> Limits, Functions, Sequences and Series, Integration</td>
-    <td class="tg-76so"><strong><a href="derivatives.html">Sharpe’s Ratio</a></strong><br> Complex numbers, Useful functions</td>
+    <td class="tg-76so"><strong><b>Sharpe’s Ratio</b></strong><br> Complex numbers, Useful functions</td>
     </tr>
+<!------------------------------------------------------->  
   <tr>
-  <td class="tg-76so"><strong><a href="engineermaths/index.html">Treynor’s Measure</a></strong> <br>Laplace Transforms, Fourier Series </td>
-  <td class="tg-76so"><strong><a href="portfoliomeasures.html">Information Ratio</a></strong><br>Sharpe Ratio, <br> Treynor' Measure <br>  Eigenvalues and Eigenvectors</td>
-  <td class="tg-76so"><b><strong><a href="riskmeasures.html">CAPM</a></strong></b><br>Binary numbers, Set Theory, Graphs, Recurrences Relations</td>
+  <td class="tg-76so">Treynor’s Measure</strong> <br>Laplace Transforms, Fourier Series </td>
+  <td class="tg-76so"><strong><a href="portfoliomeasures.html">Information Ratio</a></strong><br>Sharpe Ratio, <br> Treynor' Measure </td>
+  <td class="tg-76so"><b><strong><a href="riskmeasures.html">CAPM</a></strong></b><br>Binary numbers, Relations</td>
   </tr>
    
 
