@@ -13,6 +13,7 @@
 *.out
 *.toc
 *.tex~
+*.html~
 
 ## Intermediate documents:
 *.dvi
