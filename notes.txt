@@ -1,0 +1,67 @@
+http://www.jstor.org/pss/2683295
+
+
+Simpson's paradox (or the Yule-Simpson effect) is an apparent paradox in which a correlation (trend) present in different groups is reversed when the groups are combined. This result is often encountered in social-science and medical-science statistics,[1] and it occurs when frequency data are hastily given causal interpretations.[2] Simpson's Paradox disappears when any causal relations are derived systematically – i.e. through formal analysis.
+
+(gif on wikipedia)
+
+
+
+
+Covariance is a measure of how much two variables change together. 
+
+Variance can be considered as a special case of the covariance when the two variables are identical. 
+var(x) = cov(X,X)
+
+Covariance can be computed as product of the variance of two datasets, multiplied by their correlation.
+
+cov(X,Y) = var(x) var(y) cor(x,y)
+
+
+A covariance matrix is a useful tool for assessing variances in multiple data sets.
+
+
+If X and Y are independent, then their covariance is zero. 
+However t is possible for X and Y to have covariance zero when they are not independent.
+
+
+
+
+
+*------------------------------------------------------------*
+Adjusted R square
+
+In a multiple linear regression model, adjusted R square measures the proportion of the variation in the dependent variable 
+accounted for by the independent variables.  
+
+Adjusted R square is generally considered to be a more accurate goodness-of-fit measure than R square.
+
+*------------------------------------------------------------*
+
+
+Model selection is the task of selecting a statistical model from a set of potential models, given data.
+
+
+*------------------------------------------------------------*
+
+
+
+Akaike's information criterionis a measure of the goodness of fit of 
+an estimated statistical model.
+
+The AIC was developed by Hirotsugu Akaike under the name of "
+an information criterion" in 1971.
+
+The AIC is a "model selection" tool i.e. a method of comparing two 
+or more candidate models.
+
+The AIC is calculated using the "likelihood function" and the number of parameters. (Not on course).
+The likelihood value is generally given in code output, as a complement to the AIC.
+
+
+The AIC methodology attempts to find the model that best explains the data with a minimum of parameters.
+(i.e. in keeping with the Law of parsimony)
+
+Given a data set, several competing models may be ranked according to their AIC, with the one having the lowest AIC being the best.
+
+(A difference in AIC values of less than two is considered negligible)
