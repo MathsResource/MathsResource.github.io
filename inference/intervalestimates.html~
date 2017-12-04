@@ -1,47 +1,71 @@
-<style>
-#header {
-    background-color:lightblue;
-    color:black;
-    text-align:center;
-    padding:5px;
-}
-#nav {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px; 
-}
-#section {
-    width:550px;
-    float:left;
-    padding:10px; 
-}
-#footer {
-    background-color:lightblue;
-    color:black;
-    clear:both;
-    text-align:center;
-    padding:5px; 
-}
-</style>
 
-<body>
+<!DOCTYPE html>
+<html>
 
-<div id="header">
-<h1>MathsResource.com</h1>
-</div>
-<br><center>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="MathsResource.Github.io">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>MathsResource.Github.io</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          
+          <h1 id="project_title">MathsResource.Github.io</h1>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:1;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:11px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-b44r{background-color:#cbcefb;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-76so{font-size:15px;background-color:#cbcefb;vertical-align:top}
+</style>
+<center>
+<br>
+<!---------------------------------------------------------------------------->
+<a href="http://MathsResource.github.io"> Main Menu </a> | 
+<a href="http://MathsResource.github.io/General"> General Maths Menu </a> | 
+<a href="http://MathsResource.github.io/Finance"> Financial Maths Menu </a> | 
+<a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> | 
+<!---------------------------------------------------------------------------->
+<header class="entry-header">
+<h1 class="entry-title"><strong>Series 7 : Sequences and Series</strong></h1>
+</header>
+<div class="entry-content">
+
+<span style="text-decoration:underline;"><strong>Trees (Graph Theory)</strong></span>
+
+
+<font size =6>
+<table class="tg">
+  <tr>
+    <td class="tg-yw4l">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-b44r{background-color:#cbcefb;vertical-align:top}
-.tg .tg-fqpo{background-color:#cbcefb}
+.tg .tg-yw4l{vertical-align:top}
 </style>
+<font size =6>
+<a href="http://MathsResource.github.io"> Main Menu </a> | <a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> 
 
-<a href="http://MathsResource.github.io"> Main Menu </a> | <a href="http://MathsResource.github.io/statistics"> Statistics Menu </a> | <a href="http://MathsResource.github.io/Calculus"> Calculus Menu </a> | <a href="index.html"> pandas Menu </a>
 <h3>Point and Interval Estimates</h3>
  
 <ul>
@@ -66,10 +90,11 @@ The '<em>Confidence Interval</em>' is term used in inferential statistics that m
 	<li>Hypothesis Testing for Two Sample Means –<a title="Two Samples" href="https://dl.dropboxusercontent.com/u/6044937/Stats2/Hypothesis%20Testing%20for%20two%20populations.pdf" target="_blank"> Here</a></li>
 	<li>Hypothesis Testing for Two Small Samples –<a title="Two Small Samples Test" href="https://dl.dropboxusercontent.com/u/6044937/Stats2/Hypothesis%20Test%20for%20Two%20Independent%20Small%20Samples.pdf" target="_blank">Here</a></li>
 </ul>
- 
+
 
 <div id="footer">
-MathsResource.com
+MathsResource.github.io
 </div>
 
 </body>
+
