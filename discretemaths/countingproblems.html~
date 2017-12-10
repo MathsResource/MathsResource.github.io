@@ -28,7 +28,7 @@
 <!-------------------------------------------------------------------------------->
 
 
-In this section we look at Counting Problems, including Combinations and Permutations.
+In this section we look at counting problems, including combinations and permutations.
 <ol>
 	<li>Combinations</li>
 	<li>Permutations</li>
@@ -42,7 +42,33 @@ In this section we look at Counting Problems, including Combinations and Permuta
 &nbsp;
 
 <br>
-    
+    <h3> Markov Chains </h3>
+<table class="tg" style="undefined;table-layout: fixed; width: 810px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 270px">
+<col style="width: 270px">
+</colgroup>
+
+
+
+  <tr>
+    <td class="tg-76so"><iframe width="854" height="480" src="https://www.youtube.com/embed/O2Xg1BdqQBM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>Binomial Coefficients - Proof of Identities 1</td>
+    <td class="tg-76so"><iframe width="854" height="480" src="https://www.youtube.com/embed/XXoUYJbESCY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>Binomial Coefficients - Proof of Identities 1</td>
+     <td class="tg-76so"><iframe width="854" height="480" src="https://www.youtube.com/embed/O2Xg1BdqQBM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>Binomial Coefficients - Proof of Identities 1</td>    </tr>
+<!------------------------------------------------------------------------------->
+  <tr>
+    <td class="tg-76so"><strong><a href="tutorials/tutorial4.html">Tutorial 4 </a></strong>The Binomial Distribution<br><a href="https://mathsresource4.files.wordpress.com/2013/12/binomialdistribution-tutorialsheet.pdf" title="BinomialDistribution-TutorialSheet">BinomialDistribution-TutorialSheet</a></td>
+    <td class="tg-76so"><strong><a href="tutorials/tutorial5.html">Tutorial 5 <a></strong><br> Limits, Integration</td>
+    <td class="tg-76so"><strong><a href="tutorials/tutorial6.html">Tutorial 6 </a></strong><br> Complex numbers, Useful functions</td>
+    </tr>
+<!------------------------------------------------------------------------------->
+https://www.youtube.com/watch?v=
+<!------------------------------------------------------------------------------->
+
+
+</table>
+
 <!-------------------------------------------------------------------------------->
   </body>
 </html>
