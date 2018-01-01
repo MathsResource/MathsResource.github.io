@@ -20,16 +20,16 @@
           <h1 id="project_title">MathsResource.Github.io</h1>
         </header>
     </div>
-<!------------------------------------------------------------------------------------------------>
-
-<a href = "http://MathsResource.github.io"> Main Page </a> | <a href = "/finance/index.html"> Financial Mathematics </a>
-
-<!------------------------------------------------------------------------------------------------>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h3>
+<!------------------------------------------------------------------------------------------------>
+
+
+<a href = "http://MathsResource.github.io"> Main Page </a> | <a href = "/financialmaths/index.html"> Financial Mathematics </a>
+
+<!------------------------------------------------------------------------------------------------>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
