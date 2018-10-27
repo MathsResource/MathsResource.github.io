@@ -1,5 +1,4 @@
-
-
+﻿
 <!DOCTYPE html>
 <html>
 
@@ -10,7 +9,7 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>MathsResource.Github.io</title>
+    <title>MathsResource.github.io</title>
   </head>
 
   <body>
@@ -19,16 +18,14 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           
-          <h1 id="project_title">MathsResource.Github.io</h1>
+          <h1 id="project_title">MathsResource.github.io</h1>
         </header>
     </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-
-
-
+<!--------------------------------------------------------------------->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:11px 15px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
@@ -37,13 +34,16 @@
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-76so{font-size:15px;background-color:#cbcefb;vertical-align:top}
 </style>
-
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<strong>
+<br>
 <a href="http://MathsResource.github.io"> Main Menu </a> | 
-<a href="http://MathsResource.github.io/informationtheory"> Information Theory</a> | 
-<a href="http://MathsResource.github.io/informationtheory/datacompression.html"> Data Compression </a> 
+<a href="http://MathsResource.github.io/computermaths/index.html">Computer Maths </a> |
+<a href="http://MathsResource.github.io/computermaths/index.html">  Data Compression </a> | 
+<a href="http://MathsResource.github.io/computermaths/datacompression.html"> Maths for Computing  </a>
+</strong>
+<h3>Computer Mathematics:  Data Compression</h3>
+<center>
 <p>
 <!---------------------------------------------------------------------->
 <span style="text-decoration:underline;"><strong>Section 1 - Main Compression Techniques</strong></span><p>
@@ -59,6 +59,22 @@ We outline some major compression algorithms below:
 	<li>Motion prediction</li>
 </ul>
 
+<h2>Adaptive Huffman coding</h2>
+
+<h4> Definition: <h4> A near-minimal variable-length character coding that changes based on the frequency of characters processed. 
+As characters are processed, frequencies are updated and codes are changed (or, the coding tree is modified).
+
+<h4> Motivation</h4>
+The basic Huffman algorithm has been extended, for the following reasons:
+
+<ol>
+<li> The previous algorithms require the statistical knowledge which is often not available (e.g., live audio, video).</li>
+
+<li> Even when it is available, it could be a heavy overhead especially when many tables had to be sent when 
+a non-order0 model is used, i.e. taking into account the impact of the previous symbol to the probability of 
+the current symbol (e.g., "qu" often come together, ...). </li>
+
+</ol>
 
 
 <!---------------------------------------------------------------------->
